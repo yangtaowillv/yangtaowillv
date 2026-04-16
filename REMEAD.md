@@ -1,3 +1,5 @@
+<div align="center">
+
 ## 🐍 My GitHub Contribution Snake
 
 <picture>
@@ -6,4 +8,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yangtaowillv/yangtaowillv/output/github-contribution-grid-snake.svg">
 </picture>
 
----
+</div>
